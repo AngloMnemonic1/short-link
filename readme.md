@@ -1,5 +1,9 @@
-#Short Link
+Short - Link
+----
+
 General developer notes.
-#Author
+Author 
+----
+
 S.T.Brookes
 Uses Meteor and React tools.
