@@ -1,9 +1,4 @@
-Short - Link
-----
-
-General developer notes.
-Author 
-----
-
+# Short - Link
+Meteor and React
+## Author
 S.T.Brookes
-Uses Meteor and React tools.
