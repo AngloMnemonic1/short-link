@@ -20,6 +20,9 @@
     "shortid": "^2.2.8",
     "simpl-schema": "^1.4.2"
   },
+  "engines": {
+    "node": "v8.9.4"
+  },
   "devDependencies": {
     "eslint": "^4.18.1",
     "eslint-plugin-meteor": "^4.2.0",
