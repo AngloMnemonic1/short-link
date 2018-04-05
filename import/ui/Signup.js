@@ -16,7 +16,7 @@ export default class Signup extends React.Component {
     return (
       <div className = "boxed-view">
         <div  className = "boxed-view-box">
-          <h1>Join Short Link</h1>
+          <h2>Join Short Link</h2>
           {/*//if statement error true pint tag else nothing*/}
           {this.state.error ? <p>{this.state.error}</p> :undefined}
           <form onSubmit = {this.onSubmit.bind(this)} noValidate className = "boxed-view-form"> {/* call method */}

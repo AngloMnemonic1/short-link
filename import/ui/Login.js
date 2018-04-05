@@ -45,7 +45,7 @@ export default class Login extends React.Component {
     return (
     <div className = "boxed-view">
       <div  className = "boxed-view-box">
-        <h1>Login to Short Link</h1>
+        <h2>Login to Short Link</h2>
         {/*//if statement error true pint tag else nothing*/}
         {/*this.state.error ? <p>{this.state.error}</p> :undefined */}
         {this.displayError(this.state.error)}
@@ -56,7 +56,7 @@ export default class Login extends React.Component {
           <button className = "button">Login</button>
         </form>
 
-        <Link to = "/signup">Have an account?</Link>
+        <Link to = "/signup">Not registered? - create an account</Link>
       </div>
 
     </div>
